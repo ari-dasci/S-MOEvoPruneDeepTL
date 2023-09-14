@@ -55,4 +55,4 @@ We show some of the plots taken from our experiments:
 
 <ins> Ensemble modelling </ins>
 
-<img src="images/ojos_rps_pinturas_ensemble_accuracy-1.png" width="800" height="800">
+<img src="images/ojos_rps_pinturas_ensemble_accuracy-1.png" width="1200" height="800">
