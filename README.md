@@ -47,7 +47,7 @@ We show some of the plots taken from our experiments:
 
 <ins> Pareto Fronts </ins>
 
-<img src="images/ojos_rps_pinturas.png" width="1000" height="500">
+<img src="images/ojos_rps_pinturas.png" width="1500" height="700">
 
 <ins> Explaining most important neurons using heatmaps </ins>
 
