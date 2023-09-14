@@ -51,8 +51,8 @@ We show some of the plots taken from our experiments:
 
 <ins> Explaining most important neurons using heatmaps </ins>
 
-<img src="images/XAI_pinturas_heatmaps.png" width="300" height="300">
+<img src="images/XAI_pinturas_heatmaps.png" width="1000" height="1000">
 
 <ins> Ensemble modelling </ins>
 
-<img src="images/ojos_rps_pinturas_ensemble_accuracy-1.png" width="300" height="300">
+<img src="images/ojos_rps_pinturas_ensemble_accuracy-1.png" width="1000" height="1000">
