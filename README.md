@@ -46,7 +46,7 @@ MOEvoPruneDeepTL is able to optimize to optimize the accuracy, complexity and ro
 
 <ins> Pareto Fronts </ins>
 
-<img src="images/ojos_rps_pinturas.png" width="5000" height="600">
+<img src="images/paretopinturas.png" width="5000" height="600">
 
 <ins> Explaining most important neurons using heatmaps </ins>
 
@@ -54,4 +54,4 @@ MOEvoPruneDeepTL is able to optimize to optimize the accuracy, complexity and ro
 
 <ins> Ensemble modelling </ins>
 
-<img src="images/ojos_rps_pinturas_ensemble_accuracy-1.png" width="5000" height="900">
+<img src="images/ensemblerps.png" width="5000" height="900">
