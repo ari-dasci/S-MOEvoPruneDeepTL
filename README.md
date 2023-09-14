@@ -6,7 +6,9 @@ This is the official repository of Multiobjective evolutionary pruning of Deep N
 
 The implementation of EvoPruneDeepTL is divided in the following folders:
 
-   * MOEvoDeepTLPruning: the folder contains the python files for the approach.
+   * MOEvoPruneDeepTL: the folder contains the python files for the approach.
+   * ensemble: the folder contains the python files to run the ensemble.
+   * heatmaps: the folder contains the python files to run the heatmaps.
    * configs: contains the configuration files for each analyzed dataset in the paper.
    * images: it contains the images of some experiments of the paper for some of the datasets.
   
