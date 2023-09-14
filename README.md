@@ -54,4 +54,4 @@ MOEvoPruneDeepTL is able to optimize to optimize the accuracy, complexity and ro
 
 <ins> Ensemble modelling </ins>
 
-<img src="images/ensemblerps.png" width="5000" height="900">
+<img src="images/ensemblerps.png" width="2500" height="900">
