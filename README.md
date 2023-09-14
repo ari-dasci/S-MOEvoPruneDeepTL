@@ -20,12 +20,12 @@ The implementation of EvoPruneDeepTL is divided in the following folders:
     
   Then, given the previous folders and a dataset, the command is the following:
   
-    python3 main.py configs/configDataset[dataset].csv configGA[Consecutive].csv numberExecution
+    python3 main.py configs/configDataset[dataset].csv configs/configGAFS.csv numberExecution
     
    where:
    
-   * dataset names the dataset to analyze.
-   * the GA configuration could be the one used for the one layer approach, configGA.csv, or the both layer approach, named confiGAConsecutive.csv.
+   * dataset corresponds the dataset to analyze.
+   * the GA configuration for the model
    * numberExecution referes to the number of execution that we are carrying out.
     
  
@@ -39,3 +39,20 @@ The used datasets in this paper can be downloaded from:
   * PAINTING: https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving
   * PLANTS: https://github.com/pratikkayal/PlantDoc-Dataset
   * CATARACT: https://www.kaggle.com/jr2ngb/cataractdataset
+
+## Results
+
+We show some of the plots taken from our experiments:
+
+
+<ins> Pareto Fronts </ins>
+
+<img src="images/ojos_rps_pinturas.png" width="300" height="300">
+
+<ins> Explaining most important neurons using heatmaps </ins>
+
+<img src="images/XAI_pinturas_heatmaps.png" width="300" height="300">
+
+<ins> Ensemble modelling </ins>
+
+<img src="images/ojos_rps_pinturas_ensemble_accuracy-1.png" width="300" height="300">
