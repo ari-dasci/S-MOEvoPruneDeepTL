@@ -57,7 +57,7 @@ We have taken the 10 most important neurons (those that appear in most solutions
 
 <ins> Ensemble modelling </ins>
 
-For each quantile of mininum and maximum accuracy, we have performed the ensembe of all the models that are in that range to check if the ensemble performs better than the best of such interval:
+For each quantile of mininum and maximum accuracy, we have performed the ensembe of all the models of that range to check if the ensemble performs better than the best of such interval:
 
 
 <img src="images/ensemblerps.png" width="400" height="600">
