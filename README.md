@@ -46,12 +46,16 @@ MOEvoPruneDeepTL is able to optimize to optimize the accuracy, complexity and ro
 
 <ins> Pareto Fronts </ins>
 
+The Pareto front is composed of the best solutions of the 10 runs of MOEvoPruneDeepTL. The three axis show the accuracy, complexity and robustness.
 <img src="images/paretopinturas.png" width="600" height="600">
 
 <ins> Explaining most important neurons using heatmaps </ins>
+
+We have taken the 10 most important neurons (those that appear in most solutions of the Pareto front) and we have used GradCam to explore the parts of the images that the model selects as the most relevant in order to classify the instances:
 
 <img src="images/XAI_pinturas_heatmaps.png" width="1000" height="1000">
 
 <ins> Ensemble modelling </ins>
 
+For each quantile of mininum and maximum accuracy, we have performed the ensembe of all the models that are in that range to check if the ensemble performs better than the best of such interval:
 <img src="images/ensemblerps.png" width="400" height="600">
