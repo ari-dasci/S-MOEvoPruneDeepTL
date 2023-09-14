@@ -42,8 +42,7 @@ The used datasets in this paper can be downloaded from:
 
 ## Results
 
-We show some of the plots taken from our experiments:
-
+MOEvoPruneDeepTL is able to optimize to optimize the accuracy, complexity and robustness of sparse layers using a multi-objective genetic algorithm. We show some of the plots taken from our experiments:
 
 <ins> Pareto Fronts </ins>
 
